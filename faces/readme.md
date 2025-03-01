@@ -1,0 +1,1 @@
+# the database should be here as a PNG file to avoid problems and work correctly
