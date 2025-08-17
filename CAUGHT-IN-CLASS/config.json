@@ -1,0 +1,15 @@
+{
+  "theme": "light",
+  "sound_enabled": true,
+  "camera_index": 0,
+  "frame_skip": 2,
+  "detection_interval": 1.5,
+  "auto_save_interval": 60,
+  "thumbnail_size": 80,
+  "window_geometry": {
+    "x": 334,
+    "y": 221,
+    "width": 1235,
+    "height": 800
+  }
+}
